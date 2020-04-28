@@ -9,7 +9,7 @@
 class Msg {
     public msg: string = 'hello world';
     GetMoreMsg(): string{
-        return'webpack+vue+typescript+less'
+        return'webpack+vue+typescript+less+sssssdadawdawdawda'
     }
 }
 //创建msg对象
